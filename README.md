@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **Deep Learning & Reinforcement Learning**
 
-- 👯 I’m looking to collaborate on **Computer Vision Projects**
-
-- 💬 Ask me about **ML, DL & RL**
-
 - 📫 How to reach me **reem.ahmed.abdelrazek@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
